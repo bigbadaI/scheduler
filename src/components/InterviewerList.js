@@ -3,9 +3,7 @@ import "components/InterviewerList.scss";
 import InterviewerListItem from "components/InterviewerListItem"
 
 export default function InterviewerList(props) {
-  let eachInterviewer = props.interviewers.map(interviewer => {
-
-    // console.log(interviewer)
+  const interviewers = props.interviewers.map(interviewer => {
     return (
       <InterviewerListItem
         key={interviewer.id}
@@ -21,7 +19,7 @@ export default function InterviewerList(props) {
     <section className="interviewers">
   <h4 className="interviewers__header text--light">Interviewer</h4>
   <ul className="interviewers__list">
-    {eachInterviewer}
+    {interviewers}
     </ul>
 </section>
   )
