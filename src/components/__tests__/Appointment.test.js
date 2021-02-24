@@ -5,6 +5,6 @@ import Application from "components/Application";
 describe("Appointment", () => {
   it("renders without crashing", () => {
     const { getByText } = render(<Application />);
-    return waitForElement(() => getByText("Monday")).then(() => {})
+    return waitForElement(() => getByText("Monday")).then(() => { })
   })
 })
