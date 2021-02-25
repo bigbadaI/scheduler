@@ -6,12 +6,9 @@ This repository was the great experience and learning opurtunity for using React
 
 ## Final product
 
-!["Screenshot of the Main page"]
-https://github.com/bigbadaI/scheduler/blob/master/docs/Screen%20Shot%202021-02-24%20at%205.02.13%20PM.png?raw=true
-!["Screenshot of the Edit"]
-https://github.com/bigbadaI/scheduler/blob/master/docs/Screen%20Shot%202021-02-24%20at%205.02.25%20PM.png?raw=true
-!["Screenshot of the Delete confirmation"]
-https://github.com/bigbadaI/scheduler/blob/master/docs/Screen%20Shot%202021-02-24%20at%205.02.37%20PM.png?raw=true
+!["Screenshot of the Main page"](https://github.com/bigbadaI/scheduler/blob/master/docs/Screen%20Shot%202021-02-24%20at%205.02.13%20PM.png?raw=true)
+!["Screenshot of the Edit"](https://github.com/bigbadaI/scheduler/blob/master/docs/Screen%20Shot%202021-02-24%20at%205.02.25%20PM.png?raw=true)
+!["Screenshot of the Delete confirmation"](https://github.com/bigbadaI/scheduler/blob/master/docs/Screen%20Shot%202021-02-24%20at%205.02.37%20PM.png?raw=true)
 
 ## Setup
 
